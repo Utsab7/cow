@@ -6,7 +6,9 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node --watch index.js",
-    "register": "node register-commands.js"
+    "register": "node register-commands.js",
+    "proxy:update": "node update-proxies.js",
+    "proxy:filter": "node filter-proxies.js"
   },
   "dependencies": {
     "discord.js": "^14.16.3",
