@@ -1,3 +1,10 @@
-socks5://hxxqstat:i7j40in5yymr@191.96.254.138:6185
-socks5://hxxqstat:i7j40in5yymr@31.58.9.4:6077
-socks5://hxxqstat:i7j40in5yymr@104.239.107.47:5699
+socks5://qgehybug:5x4d0jkatv7f@31.59.20.176:6754
+socks5://qgehybug:5x4d0jkatv7f@198.23.239.134:6540
+socks5://qgehybug:5x4d0jkatv7f@45.38.107.97:6014
+socks5://qgehybug:5x4d0jkatv7f@107.172.163.27:6543
+socks5://qgehybug:5x4d0jkatv7f@198.105.121.200:6462
+socks5://qgehybug:5x4d0jkatv7f@216.10.27.159:6837
+socks5://qgehybug:5x4d0jkatv7f@142.111.67.146:5611
+socks5://qgehybug:5x4d0jkatv7f@191.96.254.138:6185
+socks5://qgehybug:5x4d0jkatv7f@31.58.9.4:6077
+socks5://qgehybug:5x4d0jkatv7f@104.239.107.47:5699
