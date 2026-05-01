@@ -1,5 +1,5 @@
-socks5://rswlzois:76kheei0e0q8@198.105.121.200:6462
-socks5://rswlzois:76kheei0e0q8@216.10.27.159:6837
+socks5://plvptycu:xi7y2kdnicg7@198.105.121.200:6462
+socks5://plvptycu:xi7y2kdnicg7@216.10.27.159:6837
 socks5://qgehybug:5x4d0jkatv7f@142.111.67.146:5611
 socks5://qgehybug:5x4d0jkatv7f@191.96.254.138:6185
 socks5://qgehybug:5x4d0jkatv7f@31.58.9.4:6077
